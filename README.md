@@ -4,6 +4,8 @@ I am currently doing my dual degree thesis project at IIT Madras under Prof. Bal
  
 I ideated and implemented a co-occurrence-based representation for options to match them to tasks efficiently. [Matching options to tasks using Option-Indexed Hierarchical RL.pdf](Matching options to tasks using Option-Indexed Hierarchical RL.pdf) summarizes the key ideas from our work.
 
+
 Authors : Kushal Chauhan, Soumya Chatterjee, Akash Reddy, Aniruddha S, Balaraman Ravindran and Pradeep Shenoy
+
 Title :   Matching Options to Tasks using Option-Indexed Hierarchical Reinforcement Learning
 
